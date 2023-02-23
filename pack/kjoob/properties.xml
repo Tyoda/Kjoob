@@ -1,0 +1,10 @@
+<properties>	
+		<kjoob.dae>
+			<anim>
+				<idle>
+					<file>anim/kjoob_dance.dae</file>
+					<addToPeriodic/>
+				</idle>
+			</anim>	
+		</kjoob.dae>
+</properties>
